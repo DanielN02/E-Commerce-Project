@@ -1,0 +1,30 @@
+[
+  {
+    "fitted": "Brooklyn Dodgers Fitted Cap",
+    "price": "$60",
+    "description": "Brooklyn Dodgers blue and white fitted cap",
+    "photo": "images/brooklyndodgersfitted.webp",
+    "photo_under": "images/brownfittedunder.jpg"
+  },
+  {
+    "fitted": "Houston Astros Fitted Cap",
+    "price": "$60",
+    "description": "Black and blue Houston Astros fitted cap ",
+    "photo": "images/oakland.webp",
+    "photo_under": "images/houstonfittedunder.jpg"
+  },
+  {
+    "fitted": "Chicago Cubs Fitted Cap",
+    "price": "$60",
+    "description": "Brown Chicago Cubs Fitted Cap",
+    "photo": "images/browncubsfitted.webp",
+    "photo_under": "images/cubsfittedunder.jpg"
+  },
+  {
+    "fitted": "NY Yankees Fitted Cap",
+    "price": "$60",
+    "description": "Two tone New York Fitted Cap",
+    "photo": "images/nytonefitted.webp",
+    "photo_under": "images/nyfittedunder.jpg"
+  }
+]

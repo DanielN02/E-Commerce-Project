@@ -1,0 +1,26 @@
+[
+  {
+    "item": "Goku Funko",
+    "price": "$25",
+    "description": "Goku eating ramen Funko Pop",
+    "photo": "images/gokueatingfunko.webp"
+  },
+  {
+    "item": "Killua Funko",
+    "price": "$15",
+    "description": "Hunter X Hunter Killua Funko",
+    "photo": "images/killua.webp"
+  },
+  {
+    "item": "Sonic Plush",
+    "price": "$50",
+    "description": "Blue sonic Plush perfect for decoration.",
+    "photo": "images/sonicplush.webp"
+  },
+  {
+    "item": "Kaws Plush",
+    "price": "$90",
+    "description": "Cookie Monster Kaws plush toy.",
+    "photo": "images/kawscookie.webp"
+  }
+]

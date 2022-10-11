@@ -1,0 +1,26 @@
+[
+  {
+    "shoe": "OG Air Jordan Bred 4s",
+    "price": "$200",
+    "description": "The limitied Air Jordan Bred 4s.",
+    "photo": "images/bred4s.jpeg"
+  },
+  {
+    "shoe": "Air Jordan 1 Hyper Royal",
+    "price": "$175",
+    "description": "Sky blue, white, and silver Jordan 1s.",
+    "photo": "images/hyperroyal.jpeg"
+  },
+  {
+    "shoe": "All White Air Force 1s",
+    "price": "$90",
+    "description": "The clean all white Air Force 1s.",
+    "photo": "images/airforceones.jpeg"
+  },
+  {
+    "shoe": "Joe Freshgood New Balance 9060",
+    "price": "$250",
+    "description": " Joe Freshgood Penny Cookie New Balance 9060",
+    "photo": "images/newbalance.jpeg"
+  }
+]

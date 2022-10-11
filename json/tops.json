@@ -1,0 +1,30 @@
+[
+  {
+    "top": "Black Gallery Dept Tee",
+    "price": "$250",
+    "description": "Gallery Dept. Beverly BLVD Graphic Tee.",
+    "photo": "images/gallerydeptfront.png",
+    "photo_back": "images/gallerydeptback.png"
+  },
+  {
+    "top": "Blue Represent Tee",
+    "price": "$110",
+    "description": "Simple cool blue Represent Tee.",
+    "photo": "images/repteefront.png",
+    "photo_back": "images/repteeback.png"
+  },
+  {
+    "top": "Doncare Varsity Jacket",
+    "price": "$225",
+    "description": "Navy blue Doncare City View Varsity Jacket.",
+    "photo": "images/doncarefront.png",
+    "photo_back": "images/doncareback.png"
+  },
+  {
+    "top": "Nike Windbreaker",
+    "price": "$75",
+    "description": "Black Windbreaker Nike Jacket",
+    "photo": "images/nikejacket.webp",
+    "photo_back": "images/doncareback.png"
+  }
+]
